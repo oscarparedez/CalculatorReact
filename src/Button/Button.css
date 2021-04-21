@@ -1,0 +1,86 @@
+.darkGray {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    margin:0;
+    padding:0;
+    font-size: 24px;
+    width:80px;
+    height:80px;
+    background-color: #C5C4CC;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 80px;
+    border-top: 1px solid #777;
+    border-top-color: rgb(119, 119, 119);
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right: 1px solid #666;
+    border-right-color: rgb(102, 102, 102);
+    box-sizing: border-box;
+    user-select: none;
+}
+.orange {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    color:white;
+    margin:0;
+    padding:0;
+    font-size: 24px;
+    width:80px;
+    height:80px;
+    background-color: #FA9718;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 80px;
+    border-top: 1px solid #777;
+    border-top-color: rgb(119, 119, 119);
+    border-top-style: solid;
+    border-top-width: 1px;
+    user-select: none;
+
+}
+.lightGray {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    margin:0;
+    padding:0;
+    font-size: 24px;
+    width:80px;
+    height:80px;
+    background-color: #e0e0e8;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 80px;
+    border-top: 1px solid #777;
+    border-top-color: rgb(119, 119, 119);
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right: 1px solid #666;
+    border-right-color: rgb(102, 102, 102);
+    user-select: none;
+}
+
+.zeroBtn {
+    width:160px;
+}
+
+.darkGray:hover, .orange:hover, .lightGray:hover {
+    cursor:pointer;
+}
+
+.darkGray:active {
+    background-color: #9C9BA3; 
+}
+
+.orange:active {
+    background-color: #D17B14;
+}
+
+.lightGray:active {
+    background-color: #B7B6BC;
+}

@@ -1,0 +1,13 @@
+.displayScreen {
+    font-family: 'Roboto';
+    box-sizing: border-box;
+    width: 320px;
+    height: 70px;
+    background-color: #1c191c;
+    color: white; 
+    line-height: 70px;
+    text-align: right;
+    vertical-align: middle;
+    font-size: 60px;
+    padding: 0px 5px;
+}
